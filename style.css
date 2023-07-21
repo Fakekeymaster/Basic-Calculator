@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.button{
+  padding: 25px;
+  margin: 0px 3px;   
+  border:2px solid black;
+  border-radius: 150%;
+  cursor: pointer;
+ 
+}
+
+.row{
+  margin: 8px 0;
+}
+
+.row input{
+    margin: 5px;
+    padding: 10px 4px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 19px;
+   width: 260px;
+}
+
+.row1 button{
+  padding: 22px;
+}
